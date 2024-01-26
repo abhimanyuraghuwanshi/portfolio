@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Mrmint",
+    "imageSrc": "projects/mrmint.png",
+    "description": "Mintforce is paving the way to move mining to the metaverse, bringing better mining rewards.",
+    "skills": ["Express", "Node.js","Blockchain","React.js"],
+    "view": "https://mrmint.io/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Stepmint Website/App",
+    "imageSrc": "projects/stepmint.png",
+    "description": "Stepmint integrates fitness and Wealth with real crypto rewards through Web 3.0 technology.",
+    "skills": ["Express", "Node.js","Blockchain","React.js"],
+    "view": "https://stepmint.io/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Crypto Vreneli",
+    "imageSrc": "projects/cryptovernelie.png",
+    "description": "Crypto Vreneli, the world's first Phygital Asset Coin (PAC) based on NFC.",
+    "skills": ["Express", "Node.js","Blockchain","React.js"],
+    "view": "https://www.cryptovreneli.ch/",
+    "source": "https://www.github.com"
+  }
+]
