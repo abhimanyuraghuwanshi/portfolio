@@ -1,20 +1,31 @@
 [
   {
-    "role": "Blockchain Devloper",
+    "role": "Blockchain Developer",
     "organisation":  "ESP Softtech.pvt.ltd",
     "startDate": "Jan, 2023",
     "endDate": "Present",
-    "experiences": ["Worked as full-stack devloper", "Interacted with Eth-Blockchain"],
+    "experiences": ["Experienced in Full-stack development", "Engaged in Eth-blockchain interactions"],
     "imageSrc": "history/esp.png"
   },
   {
-    "role": "Quality Assurance",
-    "organisation": "Mirosoft",
-    "startDate": "Mar, 2022",
-    "endDate": "Aug, 2021",
+    "role": "MERN-stack Developer",
+    "organisation": "Ypsilon It Solutions.pvt.ltd.",
+    "startDate": "Sep, 2022",
+    "endDate": "Jan, 2023",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Worked as full-stack devloper",
+      "Hands on experience Node.js"
+    ],
+    "imageSrc": "history/ypsilon.png"
+  },
+  {
+    "role": "Quality Assurance",
+    "organisation": "Sunpharma & Cipla",
+    "startDate": "Oct, 2020",
+    "endDate": "Feb, 2022",
+    "experiences": [
+      "Worked on SAP module operations",
+      "data management and handling in Cipdox"
     ],
     "imageSrc": "history/sun.png"
   }
