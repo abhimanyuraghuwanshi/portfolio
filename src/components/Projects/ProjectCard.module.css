@@ -4,8 +4,8 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  background: linear-gradient(180deg, #1e1e1f 0%, #0d3c8d 100%);
-  box-shadow: 5px 20px 20px 5px #0d59d3;
+  background: linear-gradient(45deg, #1e1e1f 0%, #0d3c8de2 100%);
+  box-shadow: 5px 10px 10px 5px #0d59d35d;
   padding: 18px 24px;
   max-width: 345px;
   margin: 0 5px;
@@ -18,7 +18,7 @@
 .title {
   font-size: 25px;
   font-weight: 700;
-  color: #85b2ff;
+  color: #319adf;
 }
 
 .description {
@@ -59,9 +59,10 @@
   font-weight: 400;
   border-radius: 100px;
   background: var(--color-btn);
-  border: 3px solid var(--color-border); 
+  border: 3px solid var(--color-border);
   padding: 1px 22px;
 }
+
 .link:hover {
   background: var(--color-btn-hover);
 }

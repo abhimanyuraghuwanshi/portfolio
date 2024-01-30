@@ -4,11 +4,26 @@
   position: relative;
   background-color: rgba(12, 12, 12, 0.6);
   border-radius: 15px;
-  padding: 73px;
+  padding: 50px;
   margin-top: 129px;
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
+}
+
+.img {
+  height: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 20px;
+  font-weight: 300;
+  border-radius: 500px;
+  background: var(--color-btn);
+  border: 1px solid var(--color-border);
+  padding: 1px 22px;
 }
 
 .title {
@@ -33,7 +48,11 @@
   color: var(--color-text);
   display: flex;
   flex-direction: column;
-  gap: 50px;
+  gap: 5px;
+}
+
+.aboutItemText p {
+  font-size: 22px !important;
 }
 
 .aboutItem {
@@ -42,12 +61,10 @@
   align-items: center;
   border-radius: 20px;
   list-style: none;
-  padding: 25px;
-  background-image: linear-gradient(
-    90deg,
-    rgba(165, 215, 232, 0.42) 0%,
-    rgba(255, 255, 255, 0) 100%
-  );
+  padding: 20px;
+  background-image: linear-gradient(90deg,
+      rgba(165, 215, 232, 0.42) 0%,
+      rgba(255, 255, 255, 0) 100%);
   background-size: 0 100%;
   background-repeat: no-repeat;
   transition: 0.4s;

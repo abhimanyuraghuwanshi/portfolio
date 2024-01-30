@@ -7,17 +7,17 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Optimus Prime</h1>
+        <h1 className={styles.title}>Hi, I'm Abhimanyu Raghuwanshi</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 1 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          I'm a blockchain developer with 2 years of experience using Solidity and
+          MERN-stack. Reach out if you'd like to learn more!
         </p>
         <a href="mailto:abhimanyu@espsoftech.org" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/heroImage1.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
