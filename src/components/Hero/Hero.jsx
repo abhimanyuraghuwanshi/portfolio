@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm a blockchain developer with 2 years of experience using Solidity and
           MERN-stack. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:abhimanyu@espsoftech.org" className={styles.contactBtn}>
+        <a href="mailto:abhimanyuraghuwanshi305@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
