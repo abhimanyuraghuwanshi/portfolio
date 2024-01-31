@@ -2,25 +2,33 @@
   {
     "title": "Mrmint",
     "imageSrc": "projects/mrmint.png",
-    "description": "Mintforce is paving the way to move mining to the metaverse, bringing better mining rewards.",
+    "description": "With 25+ crores valuation, Mintforce is paving the way to move mining to the metaverse, bringing better mining rewards.",
     "skills": ["Express", "Node.js","Blockchain","React.js"],
     "view": "https://mrmint.io/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/abhimanyuraghuwanshi/nodejs_setup"
   },
   {
     "title": "Stepmint Website/App",
     "imageSrc": "projects/stepmint.png",
-    "description": "Stepmint integrates fitness and Wealth with real crypto rewards through Web 3.0 technology.",
+    "description": "Valued at 15+ crores,Stepmint integrates Fitness & Wealth with real crypto rewards through Web 3.0 technology.",
     "skills": ["Express", "Node.js","Blockchain","React.js"],
     "view": "https://stepmint.io/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/abhimanyuraghuwanshi/nodejs_setup"
   },
   {
     "title": "Crypto Vreneli",
     "imageSrc": "projects/cryptovernelie.png",
-    "description": "Crypto Vreneli, the world's first Phygital Asset Coin (PAC) based on NFC.",
+    "description": "Crypto Vreneli, the world's first Phygital Asset Coin (PAC) based on NFC.With 100 diverse NFT variations.",
     "skills": ["Express", "Node.js","Blockchain","React.js"],
     "view": "https://www.cryptovreneli.ch/",
-    "source": "https://www.github.com"
+    "source": "https://opensea.io/collection/crypto-vreneli"
+  },
+  {
+    "title": "Decentralized Identity-Generator",
+    "imageSrc": "projects/identity-generator.png",
+    "description": "Helps generate your identity on the blockchain securely and trustfully.",
+    "skills": ["Express", "Node.js","BSC-scan","React.js","Ethers.js"],
+    "view": "https://abhimanyuraghuwanshi.github.io/decentralize-identity_makwer/",
+    "source": "https://github.com/abhimanyuraghuwanshi/decentralize-identity_makwer"
   }
 ]

@@ -1,10 +1,14 @@
 [
   {
-    "title": "Blockchain",
+    "title": "Web 3.0",
     "imageSrc": "skills/blockchain.png"
   },
   {
-    "title": "Node",
+    "title": "Solidity",
+    "imageSrc": "skills/solidity.png"
+  },
+  {
+    "title": "Node.js",
     "imageSrc": "skills/node.png"
   },
   {
@@ -12,7 +16,7 @@
     "imageSrc": "skills/sql.png"
   },
   {
-    "title": "React",
+    "title": "React.js",
     "imageSrc": "skills/react.png"
   },
   {

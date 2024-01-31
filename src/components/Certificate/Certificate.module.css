@@ -38,7 +38,7 @@ a {
   color: var(--color-text);
   display: flex;
   flex-direction: column;
-  gap: 50px;
+  gap: 10px;
 }
 
 .aboutItem {
