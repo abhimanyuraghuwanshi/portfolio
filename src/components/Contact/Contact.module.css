@@ -50,6 +50,7 @@
   .container {
     flex-direction: column;
     gap: 23px;
+    margin-top: 20px;
   }
 
   .text {
@@ -60,5 +61,8 @@
 
   .links {
     align-items: center;
+  }
+  .logoimg{
+    width: 35px;
   }
 }

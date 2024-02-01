@@ -3,7 +3,7 @@
     "title": "Mrmint",
     "imageSrc": "projects/mrmint.png",
     "description": "With 25+ crores valuation, Mintforce is paving the way to move mining to the metaverse, bringing better mining rewards.",
-    "skills": ["Express", "Node.js","Blockchain","React.js"],
+    "skills": ["Express", "Node.js","Web3.js","React.js"],
     "view": "https://mrmint.io/",
     "source": "https://github.com/abhimanyuraghuwanshi/nodejs_setup"
   },
@@ -27,7 +27,7 @@
     "title": "Decentralized Identity-Generator",
     "imageSrc": "projects/identity-generator.png",
     "description": "Helps generate your identity on the blockchain securely and trustfully.",
-    "skills": ["Express", "Node.js","BSC-scan","React.js","Ethers.js"],
+    "skills": ["Solidity","Vite.js","Ethers.js"],
     "view": "https://abhimanyuraghuwanshi.github.io/decentralize-identity_makwer/",
     "source": "https://github.com/abhimanyuraghuwanshi/decentralize-identity_makwer"
   }
