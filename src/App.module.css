@@ -3,7 +3,7 @@
 .App {
   background-color: var(--color-bg);
   width: 100%;
-  min-width: 830px;
+  min-width: 700px;
   height: 100%;
   overflow: hidden;
 }
