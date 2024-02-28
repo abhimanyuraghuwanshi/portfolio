@@ -24,15 +24,6 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
-            <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
-              <p>
-                I'm a React.js skilled developer specialized in code abstraction and performance optimization.
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
             <img width={55} src={getImageUrl("about/blockchaindevloper.png")} alt="UI icon" /> &nbsp;&nbsp;&nbsp;&nbsp;
             <div className={styles.aboutItemText}>
               <h3>Blockchain Developer</h3>
@@ -42,12 +33,21 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Frontend Developer</h3>
+              <p>
+                I'm a React.js skilled developer specialized in code abstraction and performance optimization.
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
             <img width={55} src={getImageUrl("about/youtube.png")} alt="UI icon" />&nbsp;&nbsp;&nbsp;&nbsp;
             <div className={styles.aboutItemText}>
               <a href="https://www.youtube.com/playlist?list=PL2IB7gGy4L0rKzYedZ-HnNzW5kvg5tzB9" target="_blank">
                 <h3>Blockchain Educator</h3>
                 <p>
-                  Empowering with concise and insightful YouTube tutorials.  <span className={styles.link}>Open</span>
+                  Empowering with concise and insightful YouTube tutorials.  <span className={styles.link}>Visit</span>
                 </p>
               </a>
             </div>

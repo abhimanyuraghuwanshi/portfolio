@@ -1,32 +1,42 @@
 [
   {
     "role": "Blockchain Developer",
-    "organisation":  "ESP Softtech.pvt.ltd",
+    "organisation":  "ESP Softtech pvt.ltd.",
     "startDate": "Jan, 2023",
     "endDate": "Present",
-    "experiences": ["Experienced in Full-stack development", "Engaged in Eth-blockchain interactions"],
+    "experiences": ["Contributed in mrmint project, now valued at over INR 35 Crores","Proficient in Node.js, Express.js for seamless blockchain integration & Solidity expert"],
     "imageSrc": "history/esp.png"
   },
   {
     "role": "MERN-stack Developer",
-    "organisation": "Ypsilon It Solutions.pvt.ltd.",
+    "organisation": "Ypsilon It Solutions pvt.ltd.",
     "startDate": "Sep, 2022",
     "endDate": "Jan, 2023",
     "experiences": [
-      "Worked as full-stack devloper",
-      "Hands on experience Node.js"
+      "Developed CRM module backend",
+      "Restful API creation in Node.js"
     ],
     "imageSrc": "history/ypsilon.png"
   },
   {
     "role": "Quality Assurance",
-    "organisation": "Sunpharma & Cipla",
-    "startDate": "Oct, 2020",
+    "organisation": "Sunpharma pvt.ltd.",
+    "startDate": "Jun, 2021",
     "endDate": "Feb, 2022",
     "experiences": [
-      "Worked on SAP module operations",
-      "data management and handling in Cipdox"
+      "User Acceptance Testing of SAP software",
+      "Validated user acceptance to guarantee a smooth operational experience."
     ],
     "imageSrc": "history/sun.png"
+  },
+  {
+    "role": "Quality Assurance",
+    "organisation": "Cipla pvt.ltd.",
+    "startDate": "Jun, 2021",
+    "endDate": "Oct, 2020",
+    "experiences": [
+      "User Acceptance Testing for SAP Software"
+    ],
+    "imageSrc": "history/cipla.png"
   }
 ]
