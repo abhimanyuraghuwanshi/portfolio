@@ -13,11 +13,14 @@ export const Hero = () => {
           MERN-stack. Reach out if you'd like to learn more!
         </p>
         <span>
-        <a href="https://drive.google.com/file/d/1H_FDq-MpPkbiG8zZ14DPNp-vqTVP05T_/view?usp=sharing" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1H_FDq-MpPkbiG8zZ14DPNp-vqTVP05T_/view?usp=sharing" className={styles.contactBtn} target="_blank">
           Resume
         </a>
-        <a href="https://www.linkedin.com/in/abhimanyu-raghuwanshi-346b121a1/" className={styles.contactBtn}>
+        <a href="https://www.linkedin.com/in/abhimanyu-raghuwanshi-346b121a1/" className={styles.contactBtn} target="_blank">
           Linkedin
+        </a>
+        <a href="https://www.youtube.com/playlist?list=PL2IB7gGy4L0rKzYedZ-HnNzW5kvg5tzB9" className={styles.contactBtn} target="_blank">
+          YouTube
         </a>
         </span>
       </div>
