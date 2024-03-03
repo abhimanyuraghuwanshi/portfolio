@@ -30,5 +30,13 @@
     "skills": ["Solidity","Vite.js","Ethers.js"],
     "view": "https://abhimanyuraghuwanshi.github.io/decentralize-identity_makwer/",
     "source": "https://github.com/abhimanyuraghuwanshi/decentralize-identity_makwer"
+  },
+  {
+    "title": "AR-Token Suite",
+    "imageSrc": "projects/AR_Token.png",
+    "description": "ERC-20 Token Suite: Presale, Airdrop, ICO based Smart Contracts.",
+    "skills": ["Solidity","Remix-IDE"],
+    "view": "https://github.com/abhimanyuraghuwanshi/ARToken-Suite",
+    "source": "https://github.com/abhimanyuraghuwanshi/ARToken-Suite"
   }
 ]
