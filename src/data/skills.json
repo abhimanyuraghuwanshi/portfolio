@@ -1,9 +1,5 @@
 [
   {
-    "title": "Web 3.0",
-    "imageSrc": "skills/blockchain.png"
-  },
-  {
     "title": "Solidity",
     "imageSrc": "skills/solidity.png"
   },
@@ -12,7 +8,11 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "MY SQL",
+    "title": "React.js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "My SQL",
     "imageSrc": "skills/sql.png"
   },
   {
@@ -20,8 +20,16 @@
     "imageSrc": "skills/postgres.png"
   },
   {
-    "title": "React.js",
-    "imageSrc": "skills/react.png"
+    "title": "Redis",
+    "imageSrc": "skills/redis.png"
+  },
+  {
+    "title": "Web 3.0",
+    "imageSrc": "skills/blockchain.png"
+  },
+  {
+    "title": "S3 Bucket",
+    "imageSrc": "skills/s3bucket.png"
   },
   {
     "title": "Postman",
