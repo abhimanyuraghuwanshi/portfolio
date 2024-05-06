@@ -11,8 +11,16 @@
     "title": "Stepmint Website/App",
     "imageSrc": "projects/stepmint.png",
     "description": "Valued at 15+ crores,Stepmint integrates Fitness & Wealth with real crypto rewards through Web 3.0 technology.",
-    "skills": ["Express", "Node.js","Blockchain","React.js"],
+    "skills": [ "Node.js","MySQL","Blockchain","React.js"],
     "view": "https://stepmint.io/",
+    "source": "https://github.com/abhimanyuraghuwanshi/nodejs_setup"
+  },
+  {
+    "title": "Sportsmint Presale",
+    "imageSrc": "projects/sportsmint.png",
+    "description": "First decentralized fantasy gaming platform and bringing the thrill of fantasy sports to the world of Blockchain and NFTs.",
+    "skills": ["Solidity","Postgres", "Node.js","Redis"],
+    "view": "https://presale.sportsmint.io/",
     "source": "https://github.com/abhimanyuraghuwanshi/nodejs_setup"
   },
   {
