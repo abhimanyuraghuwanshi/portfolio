@@ -4,7 +4,7 @@
     "organisation":  "ESP Softtech pvt.ltd.",
     "startDate": "Jan, 2023",
     "endDate": "Present",
-    "experiences": ["Contributed in mrmint project, now valued at over INR 35 Crores","Proficient in Node.js, Express.js for seamless blockchain integration & Solidity expert"],
+    "experiences": ["Contributed in mrmint project, now valued at over INR 500+ Crores","Proficient in MERN-stack, with seamless blockchain integration & Solidity expert"],
     "imageSrc": "history/esp.png"
   },
   {
@@ -28,15 +28,5 @@
       "Validated user acceptance to guarantee a smooth operational experience."
     ],
     "imageSrc": "history/sun.png"
-  },
-  {
-    "role": "Quality Assurance",
-    "organisation": "Cipla pvt.ltd.",
-    "startDate": "Jun, 2021",
-    "endDate": "Oct, 2020",
-    "experiences": [
-      "User Acceptance Testing for SAP Software"
-    ],
-    "imageSrc": "history/cipla.png"
   }
 ]
