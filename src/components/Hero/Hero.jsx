@@ -9,11 +9,11 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Abhimanyu Raghuwanshi</h1>
         <p className={styles.description}>
-          I'm a blockchain developer with +3 years of experience using Solidity and
-          MERN-stack. Reach out if you'd like to learn more!
+          I'm a Fullstack Blockchain developer with +2 years of experience using Solidity and
+          MERN-stack. Reach out if you'd like to learn more! <span  className={styles.link}><a href="tel:9109589305" >Call me</a></span>
         </p>
         <span>
-        <a href="https://drive.google.com/file/d/1qLwYIbeRG2hkFN0YIPKlLgFwJmR3VLwR/view?usp=sharing" className={styles.contactBtn} target="_blank">
+        <a href="https://drive.google.com/file/d/1_68m4SrvZ_qH5vJatA16m63MAIarvqPQ/view?usp=sharing" className={styles.contactBtn} target="_blank">
           Resume
         </a>
         <a href="https://www.linkedin.com/in/abhimanyu-raghuwanshi-346b121a1/" className={styles.contactBtn} target="_blank">

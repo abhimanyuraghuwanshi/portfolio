@@ -14,6 +14,16 @@ export const Certificate = () => {
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
+        <li className={styles.aboutItem}>
+        <img src={getImageUrl("about/certificateicon2.png")} alt="Server icon" /> &nbsp;&nbsp;
+            <div className={styles.aboutItemText}>
+              <a href="https://www.linkedin.com/posts/abhimanyu-raghuwanshi-346b121a1_accuracyabrandabrprecisionabraward-espsofttech-activity-7255547212615536640-XyUS?utm_source=share&utm_medium=member_desktop" target="_blank">
+              <h3>Accuracy & Precision Award </h3>
+              <p className={styles.smalltext}>
+                Yearly achievement award from ESP softtech.pvt.ltd
+              </p></a>
+            </div>
+          </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/certificateicon.png")} alt="Cursor icon" />&nbsp;&nbsp;
             <div className={styles.aboutItemText}>

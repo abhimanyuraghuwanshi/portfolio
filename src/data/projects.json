@@ -1,26 +1,26 @@
 [
   {
-    "title": "Mrmint",
-    "imageSrc": "projects/mrmint.png",
-    "description": "With 25+ crores valuation, Mintforce is paving the way to move mining to the metaverse, bringing better mining rewards.",
-    "skills": ["Express", "Node.js","Web3.js","React.js"],
-    "view": "https://mrmint.io/",
-    "source": "https://github.com/abhimanyuraghuwanshi/nodejs_setup"
-  },
-  {
     "title": "Stepmint Website/App",
     "imageSrc": "projects/stepmint.png",
-    "description": "Valued at 15+ crores,Stepmint integrates Fitness & Wealth with real crypto rewards through Web 3.0 technology.",
-    "skills": [ "Node.js","MySQL","Blockchain","React.js"],
+    "description": "Valued over 300+ crores,Stepmint integrates Fitness & Wealth with real crypto rewards through Web 3.0 technology.",
+    "skills": [ "Node.js","Postgres","Web3.js","React.js"],
     "view": "https://stepmint.io/",
     "source": "https://github.com/abhimanyuraghuwanshi/nodejs_setup"
   },
   {
-    "title": "Sportsmint Presale",
+    "title": "Sportsmint",
     "imageSrc": "projects/sportsmint.png",
-    "description": "First decentralized fantasy gaming platform and bringing the thrill of fantasy sports to the world of Blockchain and NFTs.",
+    "description": "Valued over 15+ crores,First decentralized fantasy gaming platform and bringing the thrill of fantasy sports to the world of Blockchain and NFTs.",
     "skills": ["Solidity","Postgres", "Node.js","Redis"],
-    "view": "https://presale.sportsmint.io/",
+    "view": "https://sportsmint.io/",
+    "source": "https://presale.sportsmint.io/"
+  },
+  {
+    "title": "Mrmint",
+    "imageSrc": "projects/mrmint.png",
+    "description": "With 500+ crores valuation, Mintforce is paving the way to move mining to the metaverse, bringing better mining rewards.",
+    "skills": ["Express", "MySQL","Blockchain","React.js"],
+    "view": "https://mrmint.io/",
     "source": "https://github.com/abhimanyuraghuwanshi/nodejs_setup"
   },
   {
